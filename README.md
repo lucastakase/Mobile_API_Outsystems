@@ -24,29 +24,51 @@ The project is divided into two main parts:
 
 ## Screenshots/Images
 
-1.  **Mobile Application for the Customer:**
-<div id="aksjd" align="center">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115022.png" alt="Homepage Screenshot" width="400">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115044.png" alt="Add Product Screenshot" width="400">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115057.png" alt="Product List Screenshot" width="400">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115110.png" alt="API Products Screenshot" width="400">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115125.png" alt="Orders Screenshot" width="400">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115142.png" alt="Roles Control" width="400">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115546.png" alt="Order Detail" width="400">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10121455.png" alt="Database Diagram" width="400">
-</div>
+1.  **Web Application for the Seller:**
 
-2.  **Web Application for the Seller:**
-<div id="aksjd" align="center">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115645.png" alt="Homepage Screenshot" width="170">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115708.png" alt="Product Detail Screenshot" width="170">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115735.png" alt="Shopping Cart Screenshot" width="170">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115751.png" alt="Order List Screenshot" width="170">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115807.png" alt="Order Details Screenshot" width="170">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115849.png" alt="Order Update Screenshot" width="170">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10122555.png" alt="Filter serach Screenshot" width="170">
-<img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10121437.png" alt="Database Diagram" width="500">
-</div>
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115022.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115044.png" width="500" height="300" style="object-fit: cover;" />
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115057.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115110.png" width="500" height="300" style="object-fit: cover;" />
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115125.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115142.png" width="500" height="300" style="object-fit: cover;" />
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115546.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10121455.png" width="500" height="300" style="object-fit: cover;" />
+  </div>
+</p>
+
+2.  **Mobile Application for the Customer:**
+
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 100px; align-items: center;">
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115645.png" width="150" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115708.png" width="150" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115735.png" width="150" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115751.png" width="150" height="300" style="object-fit: cover;" /> 
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115807.png" width="150" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10115849.png" width="150" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10122555.png" width="150" height="300" style="object-fit: cover;" />
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Screenshot2025-02-10121437.png" width="500" height="300" style="object-fit: cover;" />
+  </div>
+</p>
+
 
 ## Architecture
 
